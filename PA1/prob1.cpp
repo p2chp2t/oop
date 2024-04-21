@@ -1,4 +1,3 @@
-/*PA1 문제1 학번: 20220041 이름: 김유진*/
 #include <iostream>
 using namespace std;
 
