@@ -1,4 +1,3 @@
-/*PA1 문제2 학번: 20220041 이름: 김유진*/
 #include <iostream>
 #include <cstring> //strcmp 함수를 포함하는 헤더파일
 #include <cmath> //수학 함수를 포함하는 헤더파일
